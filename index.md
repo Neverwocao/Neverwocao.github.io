@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Neverwocao/Neverwocao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Neverwocao/Neverwocao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Welcome to my team’s home page
+####前言：在当天刚开始接到这个任务时，我们是茫然的。因为目前所学知识的巨大的局限性，我们对这次任务感到悲观。但随着时间的流逝以及其他科目作业的繁忙，我们选择了硬着头皮上。首先在网上到处查找资料，经过一段时间的讨论后，我们选择了网站，因为APP的难度过大。确定目标后便开始了一边学习，一边动手的过程。首先使用注册了github,然后Git Bash安装本地环境，再者安装nodejs。在以上准备后便开始了hexo的安装以及网站的部署。其中最令人感觉神奇与奇怪的莫过于对一堆没见过的文件的各种操作以及对系统命令（cmd）界面操作的简要学习。在经过长达一整天的不懈努力后终于完成了网站的初步搭建。
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>我的团队</h1>
+      <p><b>本科生</b></p>
+      <p><b>安徽师范大学</b></p>
+      <p><b>地址：安徽省芜湖市北京东路1号，邮编：24100</b></p>
+    </td>
+    <td width="25%">
+      <img src="web.1" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
