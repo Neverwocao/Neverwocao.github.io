@@ -9,7 +9,7 @@
       <p><b>地址：安徽省芜湖市北京东路1号，邮编：24100</b></p>
     </td>
     <td width="25%">
-      <img src="web1.jpg" width="100%">      % 插入证件照代码
+      <img src="web1.jpg" width="100%">      
     </td>
   </tr>
 </table>
