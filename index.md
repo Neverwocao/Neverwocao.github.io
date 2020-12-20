@@ -13,3 +13,17 @@
     </td>
   </tr>
 </table>
+###本人团队合照
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>TEAM</h1>
+      <p><b>欢迎各位靓仔</b></p>
+      <p><b>邮箱：2536414408@qq.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="web2.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
